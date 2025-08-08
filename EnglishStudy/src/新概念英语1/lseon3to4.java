@@ -2,10 +2,11 @@ package 新概念英语1;
 
 public class lseon3to4 {
     /*课程基础
-   上一次复习时间：
+   上一次复习时间：2025年8月8日16:00:47
    1.听次数:
    2.说次数：
-   3.读次数：
+   3.读次数：lseon3:32;
+           lseon4:3;
    4.写次数：
    5.文章主要内容学习次数：
 
@@ -33,6 +34,24 @@ lseon3：
 		09.  sir   先生
 
 		10.  cloakroom   n.衣帽存放处，衣帽间     a cloackroom ticket 衣帽寄存号码牌
+
+
+lseon4：
+        01.  suit  一套衣服
+
+        02.  school 学校
+              小学：primary school
+              初中：middle school，secondary school
+              高中：high school
+            大学：university
+
+        03.  teacher     n.老师
+		     王老师：Mr.Wang/Miss Wang
+
+		04.  son     儿子
+		05.  daughter  女儿
+
+
 
     2.语法讲解
         01：n.+please
