@@ -1,6 +1,6 @@
 package 新概念英语1;
 
-public class lseon13to14 {
+public class lseon5to6 {
     /*课程基础
    上一次复习时间：
    1.听次数:
@@ -15,4 +15,3 @@ public class lseon13to14 {
 
  */
 }
-
