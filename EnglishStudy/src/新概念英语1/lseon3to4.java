@@ -1,10 +1,8 @@
 package 新概念英语1;
 
-import java.util.Date;
-
-public class leson1 {
-/*课程基础
-   上一次复习时间：2025年8月8日10:19:22
+public class lseon3to4 {
+    /*课程基础
+   上一次复习时间：
    1.听次数:
    2.说次数：
    3.读次数：
@@ -16,5 +14,4 @@ public class leson1 {
 
 
  */
-
 }
