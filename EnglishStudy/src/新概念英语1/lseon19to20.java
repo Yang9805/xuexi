@@ -1,6 +1,6 @@
 package 新概念英语1;
 
-public class lseon9to10 {
+public class lseon19to20 {
     /*课程基础
    上一次复习时间：
    1.听次数:
@@ -12,7 +12,7 @@ public class lseon9to10 {
    7.修正：
 
    二，主要内容：
-leson9
+leson19
     1.单词讲解
       01.
       02.
@@ -34,7 +34,7 @@ leson9
       18.
       19.
       20.
-leson10
+leson20
       01.
       02.
       03.
