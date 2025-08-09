@@ -58,7 +58,7 @@ lseon5
            This is German car。这是一辆德国车
 
         11.Japan  日本
-           Japaneese 日本人，日语，日本的
+           Japanese 日本人，日语，日本的
            I am in Japan。  我在日本
            This is a Japanese dress。 这是一件日本的裙子
 
