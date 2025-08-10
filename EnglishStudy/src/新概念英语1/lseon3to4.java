@@ -14,44 +14,29 @@ public class lseon3to4 {
     1.单词讲解
 lseon3：
         01. umbrella   n.雨伞  sunshade 遮阳伞
-
         02. please   int.请    invite邀请
-
         03. here      adv.这里             there 那里    where 哪里
-
         04. my 我的    your 你的
-
         05. ticket   n. 票   a train ticket 一张火车票   a movie ticket 一张电影票
-
         06. number    n.号码，数字    what's the number？这是几？（指数字）
 		    1. one number
 		    2.  NO.1
-
 		07. five  五
-
 		08.  sorry  对不起
-
 		09.  sir   先生
-
 		10.  cloakroom   n.衣帽存放处，衣帽间     a cloackroom ticket 衣帽寄存号码牌
-
 
 lseon4：
         01.  suit  一套衣服
-
         02.  school 学校
               小学：primary school
               初中：middle school，secondary school
               高中：high school
             大学：university
-
         03.  teacher     n.老师
 		     王老师：Mr.Wang/Miss Wang
-
 		04.  son     儿子
 		05.  daughter  女儿
-
-
 
     2.语法讲解
         01：n.+please
