@@ -14,30 +14,20 @@ public class lseon1to2 {
         1.单词讲解
 leson1：
             01. Excuse    原谅                 单词的字母c被浊化发出”咯“g的音
-
             02. me        我        宾格
                 eg：     主格：I,宾格：me
                         主格：you,宾格：you
                         主格：she,宾格：her
                         主格：he,宾格：him
                         主格：it,宾格：it
-
             03. yes     是的
-
             04. is      be动词现在时，第三人称单数（is，am，are）
-
             05. this    这，这个
-
             06. your    你的
-
             07. handbag 手提包 hand 手 bag 包
-
             08. pardon 原谅，再说一遍
-
             09. it    它，可以替代物体，时间，天气
-
             10. thank you 谢谢你
-
             11.very musch  非常地
 leson2：
             01. pen :钢笔
@@ -50,12 +40,6 @@ leson2：
 	        08. shirt 衬衫     a white shirt
 	        09. car 小车   bus公共汽车 ，coach长途汽车
 	        10. house 大房子   公寓楼：flat（英）apartment（美）
-
-
-
-
-
-
 
         2.语法讲解
             01.一般疑问句
